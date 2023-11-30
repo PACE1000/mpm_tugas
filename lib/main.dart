@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-
 import 'package:mpm_tugas/AnimatedDefaultTextStyleApp.dart';
+
 void main() {
   runApp(const MyApp());
 }
